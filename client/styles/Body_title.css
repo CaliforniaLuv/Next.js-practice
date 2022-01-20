@@ -1,0 +1,9 @@
+.Body_title_container {
+    padding-top: 50px;
+    padding-left: 40px;
+}
+
+.Body_title_text {
+    font-size: 60px;
+    border-bottom: 15px solid #63489a;
+}
